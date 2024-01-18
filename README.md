@@ -1,7 +1,6 @@
 # Codeforces Stat Visualization
 
 [![](https://raw.githubusercontent.com/wymaker/cf-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/lighttgreen)
-<br/>
 [![](https://raw.githubusercontent.com/wymaker/cf-stats/main/output/light_card.svg)](https://codeforces.com/profile/lighttgreen)
 
 # Installation
